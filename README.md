@@ -1,4 +1,7 @@
-Group activity for CDM Week 8 and 9 
+# Group activity for CDM Week 8 and 9 
+
+## Hello from our team!
+Hello from Imogen
 
 fiontan is here
 I am here again
@@ -11,6 +14,7 @@ I am back
 
 Nicole was here
 
+## The plan
 fion
 - name
 - gender
