@@ -1,7 +1,12 @@
 Group activity for CDM Week 8 and 9 
 
-Team members:
-Nicole
+Victoria edited this 
+Victoria testing again 
+
+Group activity for CDM Week 8 and 9 abby
+I am back
+
+Nicole was here
 
 fion
 - name
@@ -24,10 +29,3 @@ tori
 KIV
 - gene exp
 - case_control
-
-Group activity for CDM Week 8 and 9 abby
-I am back
-Victoria edited this 
-
-Group activity for CDM Week 8 and 9 abby
-I am back
